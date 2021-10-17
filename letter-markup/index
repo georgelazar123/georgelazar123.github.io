@@ -44,8 +44,8 @@
         USA
         </p>
         </address>
-        <p><strong>Tel: 123-456-7890</strong></p>
-        <p><strong>Email: no_reply@example.com</strong></p>
+        <strong>Tel: 123-456-7890</strong>
+        <strong>Email: no_reply@example.com</strong></p>
         
         <time datetime="2016-01-20"> 20 January 2016</time>
         <address>
