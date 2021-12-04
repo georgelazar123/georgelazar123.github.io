@@ -210,9 +210,9 @@ figure {
 
 .subsection figure figcaption {
     padding: 0.5rem 0rem;
+    color: white;
     
 } 
-
 
 
 .expand {
@@ -220,7 +220,6 @@ figure {
     width: 0325rem;
     display: auto;
 }
-/* Link Styling */
 
 a {
     outline: none;
@@ -266,8 +265,8 @@ nav {
 }
 
 footer {
-    margin: 5rem .25rem auto;
-    width: fit-content;
+    margin: 6rem auto .5rem auto;
+    width: 90%;
     grid-template-columns: 1fr 1fr;
 
 }
